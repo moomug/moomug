@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://elmaghrabi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&amp;logo=vercel&amp;logoColor=53E0C1" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-elmaghrabi/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-elmaghrabi/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
   <a href="mailto:moghrabi.eng@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=53E0C1" alt="Email" /></a>
 </p>
 
