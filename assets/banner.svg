@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohamed Elmaghrabi. Senior .NET Engineer. From application code to reliable production systems.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#16233b"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26364e" stroke-width="0.6"/></pattern></defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<rect x="50" y="51" width="4" height="24" rx="2" fill="#53e0c1"/>
+<text x="70" y="69" fill="#53e0c1" font-family="monospace" font-size="15" letter-spacing="3">BUILD. SHIP. OPERATE.</text>
+<text x="50" y="142" fill="#f1f5fb" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700">Mohamed Elmaghrabi</text>
+<text x="52" y="187" fill="#bac9e0" font-family="Segoe UI,Arial,sans-serif" font-size="23">Senior .NET Engineer | Cloud &amp; DevOps</text>
+<text x="52" y="243" fill="#91a7c6" font-family="Segoe UI,Arial,sans-serif" font-size="18">From application code to reliable production systems.</text>
+<text x="52" y="312" fill="#6f88ad" font-family="monospace" font-size="14">GOTHENBURG, SWEDEN / @moomug</text>
+<g transform="translate(860 80)"><rect width="280" height="200" rx="14" fill="#0b1425" stroke="#354968"/>
+<circle cx="23" cy="22" r="4" fill="#53e0c1"/><circle cx="39" cy="22" r="4" fill="#657a9a"/><circle cx="55" cy="22" r="4" fill="#657a9a"/>
+<path d="M1 43H279" stroke="#354968"/>
+<g font-family="monospace" font-size="16"><text x="23" y="79" fill="#53e0c1">$ dotnet build</text><text x="23" y="113" fill="#b6a4ff">$ docker build</text><text x="23" y="147" fill="#7cb8ff">$ kubectl apply</text><text x="23" y="181" fill="#91a7c6">&gt; observe. improve.</text></g></g></svg>
