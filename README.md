@@ -28,45 +28,55 @@ Since 2018, I've worked on business applications, backend APIs, payments, and en
 
 **Backend & frontend**
 
-![C#](https://img.shields.io/badge/C%23-18243B?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-18243B?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-18243B?style=flat-square)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-18243B?style=flat-square)
-![React](https://img.shields.io/badge/React-18243B?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-18243B?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-18243B?style=flat-square&logo=typescript&logoColor=white)
+<p>
+  <img src="assets/skills/csharp.svg" alt="C#" height="40" />
+  <img src="assets/skills/dotnet.svg" alt=".NET" height="40" />
+  <img src="assets/skills/aspnet.svg" alt="ASP.NET Core" height="40" />
+  <img src="assets/skills/efcore.svg" alt="EF Core" height="40" />
+  <img src="assets/skills/react.svg" alt="React" height="40" />
+  <img src="assets/skills/nextjs.svg" alt="Next.js" height="40" />
+  <img src="assets/skills/typescript.svg" alt="TypeScript" height="40" />
+</p>
 
 **Cloud & infrastructure**
 
-![Azure](https://img.shields.io/badge/Azure-18243B?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-18243B?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-18243B?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-18243B?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-18243B?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-18243B?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-18243B?style=flat-square&logo=ansible&logoColor=white)
+<p>
+  <img src="assets/skills/azure.svg" alt="Azure" height="40" />
+  <img src="assets/skills/aws.svg" alt="AWS" height="40" />
+  <img src="assets/skills/linux.svg" alt="Linux" height="40" />
+  <img src="assets/skills/docker.svg" alt="Docker" height="40" />
+  <img src="assets/skills/kubernetes.svg" alt="Kubernetes" height="40" />
+  <img src="assets/skills/terraform.svg" alt="Terraform" height="40" />
+  <img src="assets/skills/ansible.svg" alt="Ansible" height="40" />
+</p>
 
 **CI/CD & GitOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-18243B?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-18243B?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-18243B?style=flat-square&logo=gitlab&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-18243B?style=flat-square&logo=argo&logoColor=white)
-![Flux CD](https://img.shields.io/badge/Flux%20CD-18243B?style=flat-square&logo=flux&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-18243B?style=flat-square&logo=harbor&logoColor=white)
+<p>
+  <img src="assets/skills/githubactions.svg" alt="GitHub Actions" height="40" />
+  <img src="assets/skills/jenkins.svg" alt="Jenkins" height="40" />
+  <img src="assets/skills/gitlab.svg" alt="GitLab" height="40" />
+  <img src="assets/skills/argocd.svg" alt="Argo CD" height="40" />
+  <img src="assets/skills/fluxcd.svg" alt="Flux CD" height="40" />
+  <img src="assets/skills/harbor.svg" alt="Harbor" height="40" />
+</p>
 
 **Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-18243B?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-18243B?style=flat-square&logo=grafana&logoColor=white)
+<p>
+  <img src="assets/skills/prometheus.svg" alt="Prometheus" height="40" />
+  <img src="assets/skills/grafana.svg" alt="Grafana" height="40" />
+</p>
 
 **Data & messaging**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-18243B?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18243B?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-18243B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-18243B?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18243B?style=flat-square&logo=rabbitmq&logoColor=white)
+<p>
+  <img src="assets/skills/sqlserver.svg" alt="SQL Server" height="40" />
+  <img src="assets/skills/postgresql.svg" alt="PostgreSQL" height="40" />
+  <img src="assets/skills/mongodb.svg" alt="MongoDB" height="40" />
+  <img src="assets/skills/redis.svg" alt="Redis" height="40" />
+  <img src="assets/skills/rabbitmq.svg" alt="RabbitMQ" height="40" />
+</p>
 
 | Engineering practice | Focus |
 | :--- | :--- |
