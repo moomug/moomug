@@ -26,33 +26,54 @@ Since 2018, I've worked on business applications, backend APIs, payments, and en
 
 ## My toolbox
 
-**Application engineering**
+**Backend & frontend**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-18243B?style=flat-square)
-![React](https://img.shields.io/badge/React-18243B?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-18243B?style=flat-square&logo=typescript&logoColor=3178C6)
+![C#](https://img.shields.io/badge/C%23-18243B?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-18243B?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-18243B?style=flat-square)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-18243B?style=flat-square)
+![React](https://img.shields.io/badge/React-18243B?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-18243B?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-18243B?style=flat-square&logo=typescript&logoColor=white)
 
-**Cloud & platform**
+**Cloud & infrastructure**
 
 ![Azure](https://img.shields.io/badge/Azure-18243B?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-18243B?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-18243B?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-18243B?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-18243B?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-18243B?style=flat-square&logo=terraform&logoColor=844FBA)
+![Linux](https://img.shields.io/badge/Linux-18243B?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-18243B?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-18243B?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-18243B?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-18243B?style=flat-square&logo=ansible&logoColor=white)
 
-**Delivery, data & observability**
+**CI/CD & GitOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18243B?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Argo CD](https://img.shields.io/badge/Argo_CD-18243B?style=flat-square&logo=argo&logoColor=EF7B4D)
-![Grafana](https://img.shields.io/badge/Grafana-18243B?style=flat-square&logo=grafana&logoColor=F46800)
-![SQL Server](https://img.shields.io/badge/SQL_Server-18243B?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18243B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-18243B?style=flat-square&logo=redis&logoColor=FF4438)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18243B?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-18243B?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-18243B?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-18243B?style=flat-square&logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-18243B?style=flat-square&logo=argo&logoColor=white)
+![Flux CD](https://img.shields.io/badge/Flux%20CD-18243B?style=flat-square&logo=flux&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-18243B?style=flat-square&logo=harbor&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-18243B?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-18243B?style=flat-square&logo=grafana&logoColor=white)
+
+**Data & messaging**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-18243B?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18243B?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-18243B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-18243B?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18243B?style=flat-square&logo=rabbitmq&logoColor=white)
+
+| Engineering practice | Focus |
+| :--- | :--- |
+| **Architecture & APIs** | Clean Architecture, CQRS, microservices, REST APIs, OpenAPI, SignalR |
+| **Delivery & operations** | CI/CD, GitOps, infrastructure as code, container image registries, monitoring |
+| **Quality & collaboration** | Test-driven development, Agile methodologies |
+| **Identity** | Microsoft Entra ID |
 
 ## On my workbench
 
